@@ -2,7 +2,8 @@
 An extensive repository featuring PDF versions of classic neuroscience books.  
 (It's my Learning Materials of Comp.neuro.)
 ## Other recommendation list
-### Neuromorphic Computing Data Processing Framework
+### Framework of Neuromorphic Computing
+#### Neuromorphic Computing Data Processing Framework
 - **Tonic**     
 website: https://tonic.readthedocs.io/    
 github: https://github.com/neuromorphs/tonic   
@@ -19,7 +20,7 @@ license: MIT
 website: https://expelliarmus.readthedocs.io/  
 github: https://github.com/open-neuromorphic/expelliarmus  
 license: GPL-2.0
-### Neuromorphic Computing Algorithm Framework
+#### Neuromorphic Computing Algorithm Framework
 - **snnTorch**  
 website: https://snntorch.readthedocs.io/  
 github: https://github.com/jeshraghian/snntorch  
@@ -56,7 +57,7 @@ license: MIT
 website: https://snntoolbox.readthedocs.io/  
 github: https://github.com/NeuromorphicProcessorProject/snn_toolbox  
 license: MIT
-### SNN Framework for Computational Neuroscience
+#### SNN Framework for Computational Neuroscience
 - **Brian**   
 website: https://briansimulator.org/  
 github: https://github.com/brian-team/brian2  
@@ -77,7 +78,7 @@ license: Apache-2.0 license
 website: https://www.nest-simulator.org/  
 github: https://github.com/nest/nest-simulator  
 license: GPL-2.0
-### SNN Framework Compatible with Deep Learning and Computational Neuroscience
+#### SNN Framework Compatible with Deep Learning and Computational Neuroscience
 - **Nengo**  
 website: https://nengo.ai  
 github: https://github.com/nengo/nengo  
@@ -90,7 +91,7 @@ license: customized
 website: https://uci-carl.github.io/CARLsim3/  
 github: https://github.com/brainpy/BrainPy  
 license: MIT
-### General-purpose Computational Neuroscience Framework
+#### General-purpose Computational Neuroscience Framework
 - **PyNN**  
 website: https://neuralensemble.org/PyNN/  
 github: https://github.com/NeuralEnsemble/PyNN/  
@@ -99,7 +100,7 @@ license: customized
 website: https://docs.neuroml.org/  
 github: https://github.com/NeuroML  
 license: LGPL-3.0 license
-### General-purpose Brain-inspired Framework
+#### General-purpose Brain-inspired Framework
 - **NIR**
 website: https://nnir.readthedocs.io/en/latest/  
 github: https://github.com/neuromorphs/NIR  
